@@ -2,8 +2,8 @@
 The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000. 
 */
 //START
-//declare and assign value to sum
-//declare i and loop from 0 to 999
+//initialise sum
+//initialise i and loop from 0 to 1000 (not including)
 //if i is divisible by 3 or 5, then add i to sum
 //print the value of sum
 //FINISH
